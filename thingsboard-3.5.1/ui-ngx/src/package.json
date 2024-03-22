@@ -1,0 +1,7 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "main": "el-main.js",
+    "description": "my-project",
+    "author": "mz@qq.com"
+}
